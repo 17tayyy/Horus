@@ -71,7 +71,9 @@ To make this system functionally follow this instructions:
 
 1. This project is all done by me without any help from nobody.
 
-2. This CNC needs an API to make de DDOS attacks, this is only the setup to sell the access or for personal use, and the methods are not free so they are not in this repo, to buy t.me/HorusBotnet
+2. All the tests to make this repository have done in controled environments 
+
+3. This CNC needs an API to make de DDOS attacks, this is only the setup to sell the access or for personal use, and the methods are not free so they are not in this repo, to buy t.me/HorusBotnet
 
 ## Warning
 
