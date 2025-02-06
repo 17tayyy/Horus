@@ -5,30 +5,30 @@ Horus is a CNC full setup to manage a botnet and launch DDoS attacks. This repos
 ## Images
 
 ### Client Panel
-![image](https://github.com/user-attachments/assets/b335ecd1-a079-47e9-863b-027cfdd9cebb)
+![Captura de pantalla 2025-01-30 201608](https://github.com/user-attachments/assets/6a696c42-1d0a-4531-b06a-13d622b48751)
 
-![image](https://github.com/user-attachments/assets/97d7512f-ceb0-4c05-8896-77d9837986c2)
+![Captura de pantalla 2025-01-30 201637](https://github.com/user-attachments/assets/7dbaae73-30e5-4b12-b3ea-4a54587a85e9)
 
-![image](https://github.com/user-attachments/assets/ef2b3370-cbe3-4abc-8cad-e96f498cb426)
+![Captura de pantalla 2025-01-30 204822](https://github.com/user-attachments/assets/c3ec0600-64d7-4118-86ac-d0316d40e9fc)
 
-![image](https://github.com/user-attachments/assets/a40a06c4-2a83-4586-94e9-ba95d6a4cd44)
+![Captura de pantalla 2025-01-30 201918](https://github.com/user-attachments/assets/0787aa8f-8d1a-43b7-92bc-88d0c80c4ef6)
 
-![hostdown](https://github.com/user-attachments/assets/a00c349e-d737-45ed-bc3c-1f204ccfa5b0)
+![Captura de pantalla 2025-01-30 202341](https://github.com/user-attachments/assets/8068f7c6-0945-4b0f-b19f-11d39f118712)
 
-![image](https://github.com/user-attachments/assets/65799fa7-8bfd-4304-a320-fbb01c082208)
+![hostdown](https://github.com/user-attachments/assets/afc8fd59-7e52-46fc-95f6-f01e13bf3c11)
 
-![image](https://github.com/user-attachments/assets/e983fbc7-02c1-41ed-982c-b38ddf0407c4)
+![tirao](https://github.com/user-attachments/assets/099d1fb6-e4c5-4e2e-81f1-065f23847b78)
 
 ### Admin Panel
-![image](https://github.com/user-attachments/assets/b5c99c6b-ab66-4ee3-bc70-06cdf66bb9ef)
+![Captura de pantalla 2025-01-30 202418](https://github.com/user-attachments/assets/54935891-d3db-499f-88a6-a5dcf15adebd)
 
-![buena2](https://github.com/user-attachments/assets/df803f0d-15a0-4345-a37f-c817a33bcbaf)
+![buena2](https://github.com/user-attachments/assets/0432e648-f25d-4d26-8b18-bb4fac6115ab)
 
-![logs](https://github.com/user-attachments/assets/14058baa-7f54-4208-a8da-ffae5405361e)
+![logs](https://github.com/user-attachments/assets/6b839cc9-bf45-4ac2-bb9a-2832bec60922)
 
-![buena](https://github.com/user-attachments/assets/574280ea-61a0-41f1-aa03-96992341d636)
+![buena](https://github.com/user-attachments/assets/7489d2cd-900d-45ac-a733-b2134a60d1c3)
 
-![image](https://github.com/user-attachments/assets/fa1f8681-dbc9-4ebc-aaa8-e659230cb899)
+![Captura de pantalla 2025-01-30 202735](https://github.com/user-attachments/assets/4d4e622e-3c70-41ac-98b1-4688e3f6a0e3)
 
 ## Features:
 
