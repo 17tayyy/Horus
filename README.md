@@ -19,8 +19,6 @@ Horus is a CNC full setup to manage a botnet and launch DDoS attacks. This repos
 
 ![image](https://github.com/user-attachments/assets/070ebe60-7fe0-4d9f-a814-b4690b23123d)
 
-![tirao](https://github.com/user-attachments/assets/099d1fb6-e4c5-4e2e-81f1-065f23847b78)
-
 ### Admin Panel
 ![Captura de pantalla 2025-01-30 202418](https://github.com/user-attachments/assets/54935891-d3db-499f-88a6-a5dcf15adebd)
 
