@@ -1,0 +1,25 @@
+Include /etc/ssh/sshd_config.d/*.conf
+
+Port 22
+Port 2222
+
+PermitUserEnvironment no
+LogLevel VERBOSE
+KbdInteractiveAuthentication no
+UsePAM yes
+X11Forwarding yes
+PrintMotd no
+AcceptEnv LANG LC_* 
+
+Subsystem sftp /usr/lib/openssh/sftp-server
+
+Match LocalPort 2222
+  ForceCommand /opt/Horus/HorusAccess.sh
+  AllowTcpForwarding no
+  X11Forwarding no
+
+Match User user
+  AllowTcpForwarding no
+  X11Forwarding no
+  ForceCommand internal-sftp
+  PermitOpen localhost:2222
