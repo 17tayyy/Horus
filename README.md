@@ -46,7 +46,7 @@ To make this system functionally follow this instructions:
   2. In the VPS you have to create a new user called 'user'.
   3. Change the sshd_config file for the one in this repository
   4. Then you only have clone and move this repository to /opt/
-  5. After doing this you only have to buy an API from some DDOS hire company
+  5. After doing this you only have to buy an API from some DDOS hire company or make your own botnet
   6. Finally you only have to configure your API in the send_attacks.py
   7. Now you have your own CNC!
 
