@@ -1,6 +1,6 @@
 # Horus 
 
-Horus is a C2 full setup to manage a botnet and launch attacks. This repository contains the **CNC (Command & Control)** panel, where root can manage clients, view logs..., and the users can launch attacks.
+Horus is a C2 full setup to manage a botnet and launch attacks. This repository contains the **C2 (Command & Control)** panel, where root can manage clients, view logs..., and the users can launch attacks.
 
 ## Images
 
